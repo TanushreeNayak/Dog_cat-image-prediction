@@ -1,0 +1,1 @@
+This project is a machine learning model that classifies images as either a dog or a cat. Using a Convolutional Neural Network (CNN), the model learns features from labeled image datasets and accurately predicts the category of unseen images.
